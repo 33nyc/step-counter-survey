@@ -5,6 +5,11 @@
   "measured": "2026-08-17",
   "region": "US App Store",
   "method": "Each app's App Store page was opened and read. Purchases come from the 'In-App Purchases' block on that page; 'widget per its description' means the listing's own text mentions a widget, not that we verified one exists.",
+  "publisher": {
+    "name": "Angel Step",
+    "url": "https://angelstep.app",
+    "description": "a step counter for iPhone built around one number, with widgets on the home screen and the lock screen"
+  },
   "license": {
     "applies_to": "the compilation, its structure and the described method",
     "not_claimed": "the underlying facts, which are Apple's public store listings",
