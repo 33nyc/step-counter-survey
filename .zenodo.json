@@ -1,0 +1,44 @@
+{
+  "title": "In-app purchases, ratings and widgets of iPhone step counters",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "version": "2026-08-17",
+  "publication_date": "2026-08-17",
+  "creators": [
+    {
+      "name": "Angel Step"
+    }
+  ],
+  "description": "<p>A hand-made survey of iPhone step counter apps on the US App Store. In-app purchase prices were read off each app's own store page, because Apple's search interface does not report them. Ratings, widget mentions and last-updated months come from the same listings. No app was ranked or scored; this is what the store showed on the date below.</p><p><strong>What is inside.</strong> 18 apps from the US App Store, measured on 17 August 2026. In-app purchases were checked on 13 of them and 4 sell nothing inside; listed prices run from $0.99 to $49.99. 12 of 18 listings mention a widget and 6 mention a lock screen.</p><p><strong>Method.</strong> Each app's App Store page was opened and read by hand on 2026-08-17. Purchases come from the 'In-App Purchases' block on that page; 'per its description' means the listing's own text says so, not that we verified the feature exists. The lock-screen column was read on 2026-08-19 from Apple's public listing data, matched to each app by name, rating count and last-updated month; in the same pass the widget and Health columns were re-read that way and agreed with the hand reading in every one of the 18 rows.</p><p><strong>What it is not.</strong> No app is ranked, scored or recommended here. The facts are Apple's public store listings; what is published under CC BY 4.0 is the compilation, its structure and the description of the method.</p><p>Canonical home: <a href=\"https://angelstep.app/data\">https://angelstep.app/data</a></p>",
+  "keywords": [
+    "step counter apps",
+    "pedometer apps",
+    "iPhone",
+    "App Store",
+    "in-app purchases",
+    "app pricing",
+    "widgets",
+    "lock screen",
+    "mobile apps"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isIdenticalTo",
+      "identifier": "https://angelstep.app/data",
+      "resource_type": "dataset"
+    },
+    {
+      "relation": "isIdenticalTo",
+      "resource_type": "dataset",
+      "identifier": "https://huggingface.co/datasets/thee3/step-counter-survey"
+    },
+    {
+      "relation": "isIdenticalTo",
+      "resource_type": "dataset",
+      "identifier": "https://www.kaggle.com/datasets/light33/iphone-step-counter-apps-prices-and-widgets"
+    }
+  ],
+  "notes": "Cite as: Angel Step (2026). In-app purchases, ratings and widgets of iPhone step counters [Data set]. Measured 17 August 2026. https://angelstep.app/data"
+}
