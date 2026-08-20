@@ -76,7 +76,9 @@ Attribution: *Angel Step, https://angelstep.app/data*
 
 ## Citation
 
-> Angel Step (2026). *In-app purchases, ratings and widgets of iPhone step counters* (US App Store, measured 2026-08-17). https://angelstep.app/data
+> Angel Step (2026). *In-app purchases, ratings and widgets of iPhone step counters* (US App Store, measured 2026-08-17). [10.5281/zenodo.22032007](https://doi.org/10.5281/zenodo.22032007) · https://angelstep.app/data
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22032007.svg)](https://doi.org/10.5281/zenodo.22032007)
 
 ## Mirrors
 
