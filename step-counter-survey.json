@@ -2,6 +2,8 @@
   "name": "In-app purchases, ratings and widgets of iPhone step counters",
   "description": "A hand-made survey of iPhone step counter apps on the US App Store. In-app purchase prices were read off each app's own store page, because Apple's search interface does not report them. Ratings, widget mentions and last-updated months come from the same listings. No app was ranked or scored; this is what the store showed on the date below.",
   "url": "https://angelstep.app/data",
+  "doi": "10.5281/zenodo.22032007",
+  "doi_url": "https://doi.org/10.5281/zenodo.22032007",
   "measured": "2026-08-17",
   "region": "US App Store",
   "method": "Each app's App Store page was opened and read by hand on 2026-08-17. Purchases come from the 'In-App Purchases' block on that page; 'per its description' means the listing's own text says so, not that we verified the feature exists. The lock-screen column was read on 2026-08-19 from Apple's public listing data, matched to each app by name, rating count and last-updated month; in the same pass the widget and Health columns were re-read that way and agreed with the hand reading in every one of the 18 rows.",
