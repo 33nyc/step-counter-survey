@@ -72,7 +72,7 @@ Collected by the people building **Angel Step** — a step counter for iPhone bu
 
 **CC BY 4.0** on the compilation, its structure and the described method. Not claimed: the underlying facts, which are Apple's public store listings.
 
-Attribution: *Angel Step, https://angelstep.app/data*
+Attribution: Angel Step, <https://angelstep.app/data>
 
 ## Citation
 
