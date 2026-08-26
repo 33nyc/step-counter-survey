@@ -63,7 +63,8 @@
       "reads_health_per_description": "yes",
       "last_updated": "Aug 2026",
       "in_app_purchases": "yes",
-      "prices_listed": "$0.99 – $19.99"
+      "prices_listed": "$0.99 – $19.99",
+      "app_store_id": "1037595083"
     },
     {
       "name": "Pedometer++",
@@ -78,7 +79,8 @@
       "reads_health_per_description": "yes",
       "last_updated": "May 2026",
       "in_app_purchases": "yes",
-      "prices_listed": "$1.99 – $39.99"
+      "prices_listed": "$1.99 – $39.99",
+      "app_store_id": "712286167"
     },
     {
       "name": "Pedometer α",
@@ -92,7 +94,8 @@
       "lock_screen_per_description": "no",
       "reads_health_per_description": "no",
       "last_updated": "Aug 2026",
-      "in_app_purchases": "none"
+      "in_app_purchases": "none",
+      "app_store_id": "1027151285"
     },
     {
       "name": "Steps — Activity Tracker",
@@ -107,7 +110,8 @@
       "reads_health_per_description": "yes",
       "last_updated": "Aug 2026",
       "in_app_purchases": "yes",
-      "prices_listed": "$3.99"
+      "prices_listed": "$3.99",
+      "app_store_id": "708359518"
     },
     {
       "name": "Pikmin Bloom",
@@ -119,7 +123,8 @@
       "rating_average": 4.8,
       "widget_per_description": "no",
       "lock_screen_per_description": "no",
-      "last_updated": "Aug 2026"
+      "last_updated": "Aug 2026",
+      "app_store_id": "1556357398"
     },
     {
       "name": "Stepz",
@@ -134,7 +139,8 @@
       "reads_health_per_description": "yes",
       "last_updated": "Mar 2026",
       "in_app_purchases": "yes",
-      "prices_listed": "$0.99 – $6.99"
+      "prices_listed": "$0.99 – $6.99",
+      "app_store_id": "839671656"
     },
     {
       "name": "Walkr",
@@ -149,7 +155,8 @@
       "lock_screen_per_description": "no",
       "last_updated": "Aug 2026",
       "in_app_purchases": "yes",
-      "prices_listed": "$0.99 – $49.99"
+      "prices_listed": "$0.99 – $49.99",
+      "app_store_id": "834805518"
     },
     {
       "name": "Steps — Simple Pedometer",
@@ -163,7 +170,8 @@
       "lock_screen_per_description": "yes",
       "reads_health_per_description": "no",
       "last_updated": "Jan 2026",
-      "in_app_purchases": "none"
+      "in_app_purchases": "none",
+      "app_store_id": "1602546738"
     },
     {
       "name": "StepDog",
@@ -178,7 +186,8 @@
       "lock_screen_per_description": "no",
       "last_updated": "Aug 2025",
       "in_app_purchases": "yes",
-      "prices_listed": "not listed on the page we read"
+      "prices_listed": "not listed on the page we read",
+      "app_store_id": "1474625303"
     },
     {
       "name": "Fito",
@@ -190,7 +199,8 @@
       "rating_average": 4.6,
       "widget_per_description": "yes",
       "lock_screen_per_description": "no",
-      "last_updated": "Aug 2026"
+      "last_updated": "Aug 2026",
+      "app_store_id": "6596806184"
     },
     {
       "name": "Habbie",
@@ -202,7 +212,8 @@
       "rating_average": 4.4,
       "widget_per_description": "yes",
       "lock_screen_per_description": "yes",
-      "last_updated": "Sep 2025"
+      "last_updated": "Sep 2025",
+      "app_store_id": "6468639991"
     },
     {
       "name": "STEPPI",
@@ -216,7 +227,8 @@
       "widget_per_description": "no",
       "lock_screen_per_description": "no",
       "last_updated": "Jul 2026",
-      "in_app_purchases": "none"
+      "in_app_purchases": "none",
+      "app_store_id": "1496731586"
     },
     {
       "name": "Hot Girl Steps",
@@ -231,7 +243,8 @@
       "lock_screen_per_description": "no",
       "last_updated": "Jul 2026",
       "in_app_purchases": "yes",
-      "prices_listed": "$4.99 – $29.99"
+      "prices_listed": "$4.99 – $29.99",
+      "app_store_id": "6744621190"
     },
     {
       "name": "CanGoGo",
@@ -246,7 +259,8 @@
       "lock_screen_per_description": "no",
       "last_updated": "Aug 2026",
       "in_app_purchases": "yes",
-      "prices_listed": "$0.99 – $6.99"
+      "prices_listed": "$0.99 – $6.99",
+      "app_store_id": "6499481356"
     },
     {
       "name": "Simply Step",
@@ -261,7 +275,8 @@
       "reads_health_per_description": "yes",
       "last_updated": "Jul 2026",
       "in_app_purchases": "yes",
-      "prices_listed": "$1.99 – $19.99"
+      "prices_listed": "$1.99 – $19.99",
+      "app_store_id": "6759264285"
     },
     {
       "name": "Plod",
@@ -275,7 +290,8 @@
       "widget_per_description": "yes",
       "lock_screen_per_description": "no",
       "last_updated": "Jul 2026",
-      "in_app_purchases": "none"
+      "in_app_purchases": "none",
+      "app_store_id": "6762918762"
     },
     {
       "name": "GAIT — Minimal Step Widgets",
@@ -287,7 +303,8 @@
       "widget_per_description": "yes",
       "lock_screen_per_description": "yes",
       "reads_health_per_description": "yes",
-      "last_updated": "Dec 2025"
+      "last_updated": "Dec 2025",
+      "app_store_id": "6753881925"
     },
     {
       "name": "Yep — Minimalist Step Tracker",
@@ -299,7 +316,8 @@
       "widget_per_description": "yes",
       "lock_screen_per_description": "no",
       "reads_health_per_description": "yes",
-      "last_updated": "Aug 2026"
+      "last_updated": "Aug 2026",
+      "app_store_id": "6777710189"
     }
   ]
 }
