@@ -31,7 +31,7 @@ There is no ranking and no score in this file. It is what the store showed on th
 | `in_app_purchases` | whether the listing shows an In-App Purchases block |
 | `prices_listed` | the price range shown in that block |
 | `lock_screen_per_description` | the listing's own text mentions a lock screen widget |
-| `kind` | what the app is besides a step counter, in its own words (`walking game`, `counter + virtual dog`) — empty where it is a step counter and nothing else |
+| `kind` | what the app is, in one phrase (`walking game`, `counter + virtual dog`) — carried by rows from the `cute` guide, the only table with that column; an empty cell means the row is not in that guide |
 | `app_store_id` | Apple's numeric identifier for the listing; appended to `https://apps.apple.com/us/app/id` it opens the page this row was read from (`id1037595083` is the first row) |
 
 An empty cell means the store did not show it, which is not the same as `no`.
