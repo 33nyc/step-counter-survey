@@ -14,7 +14,7 @@ There is no ranking and no score in this file. It is what the store showed on th
 
 | file | what it is |
 |---|---|
-| `step-counter-survey.json` | the canonical record: metadata, method, licence, summary, and the 18 apps |
+| `step-counter-survey.json` | the canonical record: metadata, method, license, summary, and the 18 apps |
 | `step-counter-survey.csv` | the same 18 rows, flat, for spreadsheets and notebooks |
 
 ### Columns
@@ -70,7 +70,7 @@ Collected by the people building **Angel Step** — a step counter for iPhone bu
 - [steps to calories](https://angelstep.app/steps-to-calories) — the MET model written out, with the tables precomputed
 - [how far 10,000 steps is](https://angelstep.app/how-far) — distance by height, in a table you can read
 
-## Licence
+## License
 
 **CC BY 4.0** on the compilation, its structure and the described method. Not claimed: the underlying facts, which are Apple's public store listings.
 
