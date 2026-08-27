@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "In-app purchases, ratings and widgets of iPhone step counters"
+abstract: "A hand-made survey of iPhone step counter apps on the US App Store. In-app purchase prices were read off each app's own store page, because Apple's search interface does not report them. Ratings, widget mentions and last-updated months come from the same listings. No app was ranked or scored; this is what the store showed on the date below."
+authors:
+  - name: "Angel Step"
+    website: "https://angelstep.app"
+date-released: 2026-08-17
+url: "https://angelstep.app/data"
+license: CC-BY-4.0
+keywords:
+  - "step counter apps"
+  - "pedometer apps"
+  - "iPhone"
+  - "App Store"
+  - "in-app purchases"
+  - "app pricing"
+  - "widgets"
+  - "lock screen"
+  - "mobile apps"
+doi: "10.5281/zenodo.22032007"
+identifiers:
+  - type: url
+    value: "https://github.com/33nyc/step-counter-survey"
+    description: "mirror of this dataset"
+  - type: url
+    value: "https://huggingface.co/datasets/thee3/step-counter-survey"
+    description: "mirror of this dataset"
+  - type: url
+    value: "https://www.kaggle.com/datasets/light33/iphone-step-counter-apps-prices-and-widgets"
+    description: "mirror of this dataset"
