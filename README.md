@@ -57,6 +57,10 @@ Region: **US App Store**. Date of reading: **17 August 2026** (`2026-08-17`).
 - It is **18 apps**, not the whole category — those that appeared for the searches behind three buyer's guides.
 - There is **no ranking**, on purpose. A ranking published by a participant in the market is an advertisement. The facts are Apple's; the compilation is ours.
 
+## The other dataset
+
+This survey says what the store **shows**. A second dataset says what its customers **talk about**: [what reviews of iPhone step counters talk about](https://angelstep.app/data/review-themes) — 7,859 reviews of 10 of these apps, counted against 21 themes and split by rating band. It joins to this one on `app_store_id`; 6 of its 10 apps are rows here. Neither dataset ranks anything.
+
 ## Who made it
 
 Collected by the people building **Angel Step** — a step counter for iPhone built around one number, with widgets on the home screen and the lock screen. https://angelstep.app
