@@ -19,6 +19,20 @@
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "Angel Step, https://angelstep.app/data"
   },
+  "fields": {
+    "name": "App name as listed on the US App Store",
+    "listed_in": "Which of our guides the app appears in (cute, simple, free)",
+    "ratings_count": "Number of ratings shown on the listing",
+    "rating_average": "Average rating shown on the listing",
+    "widget_per_description": "The listing's own text mentions a widget — not that we verified one exists",
+    "reads_health_per_description": "The listing's own text says it reads Apple Health",
+    "last_updated": "Month of the last update shown on the listing",
+    "in_app_purchases": "Whether the listing shows an In-App Purchases block",
+    "prices_listed": "The price range shown in that block",
+    "lock_screen_per_description": "The listing's own text mentions a lock screen widget",
+    "kind": "What the app is, in one phrase (walking game, counter + virtual dog) — carried by rows from the cute guide, the only table with that column; an empty cell means the row is not in that guide",
+    "app_store_id": "Apple's numeric identifier for the listing; appended to https://apps.apple.com/us/app/id it opens the page this row was read from (id1037595083 is the first row)"
+  },
   "count": 18,
   "summary": {
     "apps_total": 18,
